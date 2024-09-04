@@ -64,18 +64,22 @@ export default (() => {
     return (
       <div>
         <div class="content-container">
-          <p class="landing-header">Welcome to Socratica</p>
+          <p class="landing-header">Welcome to tlgnkl</p>
           <p class="page-subhead">
             This is a guide •{" "}
-            <a href="https://www.socratica.info/" target="_blank">
-              Back to main site
+            <a href="https://www.linkedin.com/in/tlgnkl/" target="_blank">
+              Go to LinkedIn
             </a>{" "}
             •{" "}
-            <a href="https://github.com/Socratica-Org/toolbox" target="_blank">
+            <a href="https://t.me/tlgnklc" target="_self">
+              TG Channel
+            </a>
+            •{" "}
+            <a href="https://github.com/tlgnkl/tlgnkl-web" target="_blank">
               Contribute
             </a>{" "}
             •{" "}
-            <a href="https://toolbox.socratica.info/credits" target="_self">
+            <a href="https://tlgnkl-web.vercel.app/credits" target="_self">
               Credits
             </a>
           </p>

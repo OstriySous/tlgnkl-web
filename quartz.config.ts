@@ -3,14 +3,14 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Socratica Toolbox",
+    pageTitle: "tlgnkl",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "google",
       tagId: "G-PBC0Y59ZMD"
     },
-    baseUrl: "toolbox.socratica.info",
+    baseUrl: "tlgnkl-web.vercel.app",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
