@@ -68,11 +68,11 @@ export default (() => {
           <p class="page-subhead">
             This is a guide •{" "}
             <a href="https://www.linkedin.com/in/tlgnkl/" target="_blank">
-              Go to LinkedIn
+              LinkedIn
             </a>{" "}
             •{" "}
             <a href="https://t.me/tlgnklc" target="_self">
-              TG Channel
+              TG
             </a>
             •{" "}
             <a href="https://github.com/tlgnkl/tlgnkl-web" target="_blank">
