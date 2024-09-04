@@ -73,7 +73,7 @@ export default (() => {
             •{" "}
             <a href="https://t.me/tlgnklc" target="_self">
               TG
-            </a>
+            </a>{" "}
             •{" "}
             <a href="https://github.com/tlgnkl/tlgnkl-web" target="_blank">
               Contribute
