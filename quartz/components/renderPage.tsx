@@ -124,16 +124,16 @@ export function renderPage(
     <html>
       <Head {...componentData} />
       <body data-slug={slug}>
-        <div class="marquee">
-          <p>
-            the tactic toolbox • the scheme suite • the manuever manual • the blueprint bundle • the
-            playbook pack • the approach arsenal • the strategy suitcase • the resource repository • 
-            the tactic toolbox • the scheme suite • the manuever manual • the blueprint bundle • the
-            playbook pack • the approach arsenal • the strategy suitcase • the resource repository • 
-            the tactic toolbox • the scheme suite • the manuever manual • the blueprint bundle • the
-            playbook pack • the approach arsenal • the strategy suitcase • the resource repository
-          </p>
-        </div>
+        {/*<div class="marquee">*/}
+        {/*  <p>*/}
+        {/*    the tactic toolbox • the scheme suite • the manuever manual • the blueprint bundle • the*/}
+        {/*    playbook pack • the approach arsenal • the strategy suitcase • the resource repository • */}
+        {/*    the tactic toolbox • the scheme suite • the manuever manual • the blueprint bundle • the*/}
+        {/*    playbook pack • the approach arsenal • the strategy suitcase • the resource repository • */}
+        {/*    the tactic toolbox • the scheme suite • the manuever manual • the blueprint bundle • the*/}
+        {/*    playbook pack • the approach arsenal • the strategy suitcase • the resource repository*/}
+        {/*  </p>*/}
+        {/*</div>*/}
         {slug === "index" && <LandingComponent {...componentData} />}
         {slug !== "index" && (
           <div id="quartz-root" class="page">
