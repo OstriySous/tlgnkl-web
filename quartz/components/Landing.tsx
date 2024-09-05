@@ -66,7 +66,7 @@ export default (() => {
         <div class="content-container">
           <p class="landing-header">Welcome to tlgnkl</p>
           <p class="page-subhead">
-            This is a guide •{" "}
+            This is a home •{" "}
             <a href="https://www.linkedin.com/in/tlgnkl/" target="_blank">
               LinkedIn
             </a>{" "}
