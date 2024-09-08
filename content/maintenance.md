@@ -1,6 +1,8 @@
 ---
 title: Maintenance
 issueNo: 5
+tags:
+  - hidden
 ---
 
 <div class="article-header">

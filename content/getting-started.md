@@ -1,6 +1,8 @@
 ---
 title: Getting Started
 issueNo: 2
+tags:
+  - hidden
 ---
 
 <div class="article-header">

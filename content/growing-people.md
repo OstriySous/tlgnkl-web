@@ -1,6 +1,8 @@
 ---
 title: Growing People
 issueNo: 3
+tags:
+  - hidden
 ---
 
 <div class="article-header">

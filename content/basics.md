@@ -1,6 +1,7 @@
 ---
 title: The Basics
 issueNo: 1
+tags: hidden
 ---
 
 <div class="article-header">

@@ -1,6 +1,8 @@
 ---
 title: Superboosting Ideas
 issueNo: 4
+tags:
+  - hidden
 ---
 
 <div class="article-header">

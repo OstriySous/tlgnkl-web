@@ -1,6 +1,8 @@
 ---
 title: Demo Days
 issueNo: 6
+tags:
+  - hidden
 ---
 
 <div class="article-header">
