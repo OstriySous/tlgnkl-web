@@ -31,7 +31,7 @@ Sounds counterintuitive, right?
 
 # 2. Speed is Essential
 
-Timing can make all the difference
+Timing can make all the difference.
 
 </div>
 
@@ -45,7 +45,7 @@ When you're looking to attract investments, you must keep the following points i
 
 # 3. Growth Solves All Problems
 
-Growth is your best friend when raising money
+Growth is your best friend when raising money.
 
 </div>
 
