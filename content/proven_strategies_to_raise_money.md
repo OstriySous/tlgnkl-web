@@ -8,6 +8,13 @@ tags: hidden
 
 Raising funds can feel like an uphill battle, but with the right approach, you can make investors eager to back your startup. Here are some actionable insights from Michael Seibel, CEO of Y Combinator, to help you attract the investment you need.
 
+<div class="article-header">
+
+# What we do it for
+
+Written by Anson Yu and Joss Murphy
+
+</div>
 
 <div class="article-header"> 
 
