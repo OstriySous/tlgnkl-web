@@ -13,10 +13,12 @@ Raising funds can feel like an uphill battle, but with the right approach, you c
 
 ## 1. If You Don't Need Money, Investors Will Happily Give It to You
 
+Sounds counterintuitive, right?
+
 </div>
 
 
-Sounds counterintuitive, right? But when you operate like you don’t need funding, investors find you more attractive. Here’s how you can create that scenario:
+ But when you operate like you don’t need funding, investors find you more attractive. Here’s how you can create that scenario:
 
 - **Cut Costs to the Max:** Keep your operations lean. Don’t inflate your staff or burn through cash on marketing.
 - **Be Operationally Profitable:** Focus on making your business self-sustaining.
@@ -26,9 +28,11 @@ Sounds counterintuitive, right? But when you operate like you don’t need fundi
 
 ## 2. Speed is Essential
 
+Timing can make all the difference
+
 </div>
 
-When you're looking to attract investments, timing can make all the difference:
+When you're looking to attract investments, you must keep the following points in mind:
 
 - **Schedule Meetings Tightly:** Hold investor meetings within a short timeframe, like a week.
 - **Create a Buzz:** This urgency makes your round exciting and lines up the investors.
@@ -38,9 +42,10 @@ When you're looking to attract investments, timing can make all the difference:
 
 ## 3. Growth Solves All Problems
 
+Growth is your best friend when raising money
+
 </div>
 
-Growth is your best friend when raising money:
 
 - **Showcase Your Growth:** The more you grow, the more appealing you are to investors.
 - **Rework Pre-Launch Plans:** If you haven’t launched yet, refine your strategy to highlight your potential growth.
@@ -49,9 +54,11 @@ Growth is your best friend when raising money:
 
 ## 4. Let the Press Work for You
 
+You might think you need to chase investors, but they should be seeking you out.
+
 </div>
 
-You might think you need to chase investors, but they should be seeking you out. Here’s how to make that happen:
+Here’s how to make that happen:
 
 - **Spread the Word:** Make sure your startup is talked about in the right circles.
 - **Be the Buzz:** Get your company noticed by the press so investors hear about you from others.
@@ -60,9 +67,11 @@ You might think you need to chase investors, but they should be seeking you out.
 
 ## Additional Lifehack: Find the Right Investors
 
+Focus on investors who understand your problem.
+
 </div>
 
-Focus on investors who understand your problem. Often, they’ve faced it themselves:
+Often, they’ve faced it themselves:
 
 - **Target Experience:** Look for investors who have encountered the same challenges your startup is tackling.
 - **Consider Customers and Prospects:** Early adopters of your product might be great early-stage investors.
