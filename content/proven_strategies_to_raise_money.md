@@ -2,23 +2,19 @@
 title: Proven Strategies to Raise Money and Attract Funding
 tags: hidden
 ---
+<div class="article-header"> 
+
 # How to Raise Money and Attract Investment: A Quick Summary of Tips
+
+</div>
 
 ## Introduction
 
 Raising funds can feel like an uphill battle, but with the right approach, you can make investors eager to back your startup. Here are some actionable insights from Michael Seibel, CEO of Y Combinator, to help you attract the investment you need.
 
-<div class="article-header">
-
-# What we do it for
-
-Written by Anson Yu and Joss Murphy
-
-</div>
-
 <div class="article-header"> 
 
-## 1. If You Don't Need Money, Investors Will Happily Give It to You
+# 1. If You Don't Need Money, Investors Will Happily Give It to You
 
 Sounds counterintuitive, right?
 
@@ -33,7 +29,7 @@ Sounds counterintuitive, right?
 
 <div class="article-header">
 
-## 2. Speed is Essential
+# 2. Speed is Essential
 
 Timing can make all the difference
 
@@ -47,7 +43,7 @@ When you're looking to attract investments, you must keep the following points i
 
 <div class="article-header">
 
-## 3. Growth Solves All Problems
+# 3. Growth Solves All Problems
 
 Growth is your best friend when raising money
 
@@ -59,7 +55,7 @@ Growth is your best friend when raising money
 
 <div class="article-header">
 
-## 4. Let the Press Work for You
+# 4. Let the Press Work for You
 
 You might think you need to chase investors, but they should be seeking you out.
 
@@ -72,7 +68,7 @@ Here’s how to make that happen:
 
 <div class="article-header">
 
-## Additional Lifehack: Find the Right Investors
+# Additional Lifehack: Find the Right Investors
 
 Focus on investors who understand your problem.
 
