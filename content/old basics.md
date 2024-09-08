@@ -1,13 +1,14 @@
 ---
-title: The Basics
+title: Old The Basics
 issueNo: 1
+tags: hidden
 ---
 
 <div class="article-header">
 
-# What is Socratica?
+# What is Socratica???
 
-Written by Anson Yu and Joss Murphy
+Written by Anson Yu and Joss Murphy and whom
 
 </div>
 

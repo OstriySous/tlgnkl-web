@@ -32,7 +32,14 @@ const defaultOptions = {
       return -1
     }
   },
-  filterFn: (node) => node.name !== "tags",
+  filterFn: (node) => {
+    // Check if the node has a file and frontmatter
+    if (node.file?.frontmatter) {
+      // Exclude nodes with the 'hidden' tag
+      return !node.file.frontmatter.tags?.includes("hidden");
+    }
+    return true;
+  },
   order: ["filter", "map", "sort"],
 } satisfies Options
 
